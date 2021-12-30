@@ -45,8 +45,11 @@ Here are some ideas to get you started:
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 -->
-
+<br />
+<br />
 
 [website]: https://priyanshuarora2001.github.io/My-Portfolio/
 [instagram]: https://instagram.com/priyanshu__arora
 [linkedin]: https://www.linkedin.com/in/priyanshu-arora-48060b1a6/
+
+![](https://komarev.com/ghpvc/?username=PriyanshuArora2001&color=2c528c)
