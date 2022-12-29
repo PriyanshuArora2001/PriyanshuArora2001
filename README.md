@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love Coding and Development
-- 📫 Reach me at: priyanshuarora9414@gmail.com
+<!-- - 📫 Reach me at: priyanshuarora9414@gmail.com -->
 
 ### Connect with me:
 
